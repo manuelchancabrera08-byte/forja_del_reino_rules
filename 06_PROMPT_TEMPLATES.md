@@ -65,7 +65,8 @@ tiny irregular hand tremor,
 slight pulse,
 small framing drift,
 occasional autofocus hesitation,
-optional brief digital zoom if useful,
+optional brief imperfect digital zoom if useful,
+focus may drift and recover naturally,
 no cinematic movement,
 no crane,
 no dolly,
@@ -83,9 +84,9 @@ not sharp,
 not polished.
 
 Audio:
-[EFECTOS].
+[EFECTOS], plus subtle hidden-recording sounds if the witness is concealed (branches, leaves, cloth rustle, contained breathing).
 Dialogue only if biblically appropriate, in natural Latin American Spanish:
-[DIÁLOGO].
+[DIÁLOGO]. If Jesus speaks, his voice should feel warm, calm, firm, compassionate and authoritative, never generic or theatrical.
 
 No music.
 No narration unless explicitly requested.
@@ -131,7 +132,9 @@ emotionally believable,
 consistent with the biblical text.
 
 Audio:
-[EFECTOS].
+[EFECTOS], plus subtle hidden-recording sounds if applicable.
+
+If Jesus speaks, his voice should feel warm, calm, firm, compassionate and authoritative, in natural Latin American Spanish.
 
 No music unless explicitly requested.
 ```
