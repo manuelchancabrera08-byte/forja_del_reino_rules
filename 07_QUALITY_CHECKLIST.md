@@ -25,6 +25,8 @@ No aprobar una escena hasta revisar todo.
 - [ ] ¿Hay microtemblor, no movimiento cinematográfico?
 - [ ] ¿No hay crane/dolly/orbit/camera rise?
 - [ ] ¿El zoom, si existe, es digital e imperfecto?
+- [ ] ¿Si hay zoom, puede empezar abierto, acercar brevemente y terminar menos cerrado cuando convenga?
+- [ ] ¿El autofocus puede fallar un instante y recuperar sin parecer efecto de cine?
 - [ ] ¿La toma no está siempre demasiado cerca?
 
 ## Imagen
@@ -55,6 +57,8 @@ No aprobar una escena hasta revisar todo.
 - [ ] ¿No hay música si no se pidió?
 - [ ] ¿El diálogo suena natural y latino?
 - [ ] ¿No hay efectos mágicos genéricos innecesarios?
+- [ ] ¿Si la grabación es oculta, se oyen de forma sutil ramas, hojas, tela o respiración contenida?
+- [ ] ¿Si habla Jesús, su voz evita sonar genérica, teatral o de locutor?
 
 ## Continuidad entre clips
 
