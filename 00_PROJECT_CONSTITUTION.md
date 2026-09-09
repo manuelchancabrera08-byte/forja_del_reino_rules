@@ -98,3 +98,20 @@ Siempre:
 **imagen primero → revisión → prompt de animación después.**
 
 Nunca escribir primero el prompt de video si la imagen de referencia todavía no está aprobada.
+
+## 10. Revisión obligatoria antes de cada prompt
+
+Antes de entregar cualquier prompt nuevo, revisar siempre estas instrucciones del repositorio y aplicar las reglas vigentes.
+
+Ningún prompt debe escribirse ignorando el sistema maestro de reglas.
+
+## 11. Grabación secreta y sonido de ocultamiento
+
+Cuando la escena se plantee como grabación oculta o a escondidas, incluir de forma natural señales cercanas del escondite y del operador, por ejemplo:
+- roce de ramas;
+- hojas moviéndose cerca del micrófono;
+- tela o manga rozando;
+- respiración contenida;
+- pequeño ruido corporal del testigo oculto.
+
+Estas señales deben ser sutiles, no exageradas, y deben reforzar la sensación de grabación secreta.
