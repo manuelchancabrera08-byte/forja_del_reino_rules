@@ -64,3 +64,14 @@ El Video 2 debe heredar del Video 1:
 - relaciones espaciales.
 
 Nunca “resetear” la escena entre clips.
+
+## Patrón de comportamiento visual aprobado
+
+Cuando la escena lo permita, el patrón aprobado es:
+- inicio abierto, lejano y parcialmente oculto;
+- pequeño error o respiración de foco;
+- zoom digital breve para inspeccionar el momento importante;
+- permanencia breve del zoom;
+- cierre con menos zoom o encuadre ligeramente más abierto.
+
+Nunca debe sentirse como movimiento de cine, sino como una persona escondida que intenta ver mejor sin ser descubierta.
