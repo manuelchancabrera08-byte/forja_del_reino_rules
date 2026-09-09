@@ -73,3 +73,35 @@ El audio debe respetar distancia:
 - golpes grandes con retardo y reverberación;
 - sonidos cercanos más claros;
 - no mezclar todo al mismo volumen.
+
+## Voz de Jesús
+
+Cuando Jesús tenga diálogo, evitar una voz genérica.
+
+Buscar una voz que se sienta:
+- masculina adulta;
+- cálida;
+- serena;
+- firme;
+- compasiva;
+- con autoridad tranquila;
+- natural, no teatral;
+- español latino claro.
+
+No debe sonar como locutor, narrador épico ni doblaje exagerado.
+
+## Sonido de grabación oculta
+
+Si la toma es secreta o escondida, añadir de manera sutil sonidos cercanos del escondite:
+- ramas rozando cerca del micrófono;
+- hojas secas moviéndose;
+- leve roce de tela;
+- respiración contenida del testigo;
+- crujidos pequeños del lugar desde donde se espía.
+
+## Zoom y audio
+
+Si ocurre un zoom digital breve:
+- conservar el audio ambiente realista;
+- no cambiar artificialmente a “audio de cine”;
+- mantener la sensación de la misma toma continua de celular.
