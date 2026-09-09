@@ -62,3 +62,10 @@ Este archivo se actualiza cada vez que un error o una solución sea útil para f
 - Después se crea el prompt de animación.
 - Si hay diálogo, debe ser español latino natural.
 - Se mantiene toda la estética de celular oculto y máximo realismo acumulada anteriormente.
+
+### Pesca milagrosa / nueva mecánica de grabación secreta
+- Puede comenzar en toma abierta y lejana, hacer un zoom digital breve e imperfecto y terminar sin el mismo nivel de zoom.
+- El zoom debe sentirse humano y oportunista, no como push-in cinematográfico.
+- Cuando la toma sea oculta, conviene añadir ramas, hojas, tela o respiración del observador en el audio cercano.
+- La voz de Jesús no debe sonar genérica; debe sentirse cálida, serena, firme, compasiva y con autoridad tranquila en español latino.
+- Antes de entregar cualquier prompt, revisar siempre el archivo de reglas y aplicar los aprendizajes acumulados.
