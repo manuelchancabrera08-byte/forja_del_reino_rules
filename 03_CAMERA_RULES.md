@@ -68,3 +68,20 @@ Ejemplos:
 - desde la entrada de un foso.
 
 Nunca pedir movimientos incompatibles con esa posición.
+
+## Zoom y respiración del foco
+
+En este proyecto, el zoom correcto no es cinematográfico.
+
+Patrón permitido cuando sirva a la escena:
+- comenzar en toma abierta y lejana;
+- hacer un zoom digital breve e imperfecto para observar mejor;
+- mantenerlo un momento;
+- terminar ligeramente más abierto o con menos zoom.
+
+El autofocus puede:
+- irse brevemente al primer plano;
+- perder el sujeto por un instante;
+- recuperar el enfoque de forma torpe.
+
+Esto debe sentirse como comportamiento real de un celular, no como efecto decorativo.
